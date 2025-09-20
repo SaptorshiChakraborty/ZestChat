@@ -1,4 +1,4 @@
-ZestChat: Zero-knowledge Encrypted Serverless Transferrable Chat
+ZestChat stands for Zero-knowledge Encrypted Serverless Transferrable Chat
 
 Abstract
 
