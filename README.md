@@ -1,7 +1,4 @@
-      ZestChat White Paper
-
-    Zero-knowledge Encrypted          Serverless Transferrable Chat
-    
+Zero-knowledge Encrypted Serverless Transferrable Chat
 
 Abstract
 
